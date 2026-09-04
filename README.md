@@ -1,4 +1,4 @@
-# ArchiLink
+# Archilink - A Professional Platform for Freelance Architects and Engineers
 
 ArchiLink is a platform that connects Filipino architects and clients through verified profiles, portfolio showcasing, and project-based hiring.
 
